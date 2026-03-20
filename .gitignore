@@ -1,0 +1,25 @@
+# Cache
+__pyinstaller__/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Variables de entorno
+.env
+.vscode/
+.venv/
+
+# Distribucion y empaquetado
+build/
+dist/
+*.spec
+
+# Logs
+logs/
+*.log
+
+# Archivos de entrada y salida
+output/
+*.xlsx
